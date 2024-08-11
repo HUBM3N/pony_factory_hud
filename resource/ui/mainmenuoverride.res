@@ -123,7 +123,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 
-		"image"			"../vgui/replay/thumbnails/logo"
+		"image"			"replay/thumbnails/logo"
 		"scaleImage"	"1"	
 
 		"pin_to_sibling"							"MainMenuAnchor"

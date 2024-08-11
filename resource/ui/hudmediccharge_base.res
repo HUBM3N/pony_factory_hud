@@ -31,7 +31,7 @@
 		"tall"			"15"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../vgui/replay/thumbnails/plus"
+		"image"			"replay/thumbnails/plus"
 		"scaleImage"	"1"	
 "alpha" "128"
 				"pin_to_sibling"							"UberAnchor"
