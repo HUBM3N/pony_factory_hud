@@ -48,7 +48,7 @@
 		"tall"			"15"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../vgui/replay/thumbnails/heart"
+		"image"			"replay/thumbnails/heart"
 		"scaleImage"	"1"	
 "alpha" "128"
 
@@ -68,7 +68,7 @@
 		"tall"			"15"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../vgui/replay/thumbnails/heart"
+		"image"			"replay/thumbnails/heart"
 		"scaleImage"	"1"	
 "alpha" "0"
 "drawcolor" "0 225 255 255"
@@ -90,7 +90,7 @@
 		"tall"			"15"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../vgui/replay/thumbnails/heart"
+		"image"			"replay/thumbnails/heart"
 		"scaleImage"	"1"	
 "alpha" "0"
 "drawcolor" "255 0 0 255"
@@ -112,7 +112,7 @@
 		"tall"			"10"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../vgui/replay/thumbnails/top"
+		"image"			"replay/thumbnails/top"
 		"scaleImage"	"1"	
 "alpha" "128"
 
@@ -130,7 +130,7 @@
 		"tall"			"14"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../vgui/replay/thumbnails/speedometer/digits"
+		"image"			"replay/thumbnails/speedometer/digits"
 		"scaleImage"	"1"	
 "alpha" "128"
 
@@ -148,7 +148,7 @@
 		"tall"			"10"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../vgui/replay/thumbnails/bottom"
+		"image"			"replay/thumbnails/bottom"
 		"scaleImage"	"1"	
 "alpha" "128"
 
@@ -165,7 +165,7 @@
 		"tall"			"51"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../vgui/replay/thumbnails/right"
+		"image"			"replay/thumbnails/right"
 		"scaleImage"	"1"	
 "alpha" "128"
 
@@ -182,7 +182,7 @@
 		"tall"			"51"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../vgui/replay/thumbnails/left"
+		"image"			"replay/thumbnails/left"
 		"scaleImage"	"1"	
 "alpha" "128"
 
